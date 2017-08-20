@@ -1,0 +1,26 @@
+
+Program AZELPLOT (forking cf2sky Version 17 December 2003, edits R. Grapenthin, since July 2011)
+
+Version 2015-10-02
+
+Use GMT5? 0
+Input file: /var/www/html/tesisPPP/files/b9e57a/Process/CALI.inp
+2012 3 7 16 0 0
+2012 3 7 23 59 45
+/var/www/html/tesisPPP/files/b9e57a/Ephemeris/ngs16783.sp3
+Title: SKYPLOT CALI
+Cutoff Angle: 15.000
+Rinex Obs File: /var/www/html/tesisPPP/files/b9e57a/Rinex/CALI0670.12O
+TEQC File: /var/www/html/tesisPPP/files/b9e57a/Rinex/CALI0670.mp1
+
+Approx XYZ:      1483098.2257     -6193056.7966       373127.2574
+
+
+Now reading the TEQC plot file...
+
+
+
+Finished writing azimuth/elevation 
+
+
+Normal Termination 
